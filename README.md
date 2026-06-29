@@ -1,1 +1,1 @@
-This repository is the official PyTorch implementation of "Brain-Graph Hyperbolic Learning for Brain Disease Prediction". The code will be made publicly available soon.
+This repository is the official PyTorch implementation of "Navigating Hierarchy: Hyperbolic Learning on Brain Graphs for Disorder Diagnosis". The code will be made publicly available soon.
