@@ -33,7 +33,6 @@ The framework figure is available here:
 ```text
 .
 ├── README.md
-├── HLBG_README.md
 ├── requirements.txt
 ├── train.py
 ├── Fig/
@@ -43,10 +42,6 @@ The framework figure is available here:
 │   ├── read_data.py
 │   ├── comm_utils.py
 │   ├── utils.py
-│   ├── craddock200.rda
-│   ├── node_clus_map.pickle
-│   ├── Yeo7_coordinates.npy
-│   └── DICE_CPAC200_&_Yeo-7-liberal_res-1x1x1.pkl
 └── model/
     ├── HLBG.py
     ├── Gamamba.py
@@ -109,7 +104,7 @@ python train.py \
 ```
 ## Citation
 
-<!-- If you find this repository useful, please cite our paper once the bibliographic information is available:
+ If you find this repository useful, please cite our paper once the bibliographic information is available:
 
  ```bibtex
 @article{hlbg,
@@ -118,7 +113,7 @@ python train.py \
   journal = {To be added},
   year    = {To be added}
 }
-```  -->
+```  
 
 This work also builds on community-aware brain graph learning. Please consider citing the following related work:
 
