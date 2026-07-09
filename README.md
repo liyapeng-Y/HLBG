@@ -107,11 +107,14 @@ python train.py \
  If you find this repository useful, please cite our paper once the bibliographic information is available:
 
  ```bibtex
-@article{hlbg,
-  title   = {Navigating Hierarchy: Hyperbolic Learning on Brain Graphs for Disorder Diagnosis},
-  author  = {To be added},
-  journal = {To be added},
-  year    = {To be added}
+@misc{li2026navigatinghierarchyhyperboliclearning,
+      title={Navigating Hierarchy: Hyperbolic Learning on Brain Graphs for Disorder Diagnosis}, 
+      author={Yapeng Li and Bo Jiang and Ziyan Zhang and Dongdong Chen and Zhengzheng Tu},
+      year={2026},
+      eprint={2607.07077},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2607.07077}, 
 }
 ```  
 
